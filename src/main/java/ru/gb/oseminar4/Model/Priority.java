@@ -1,4 +1,4 @@
-package ru.gb.oseminar.data;
+package ru.gb.oseminar4.Model;
 
 public enum Priority {
     LOW("LOW"),

@@ -1,4 +1,4 @@
-package ru.gb.oseminar.data;
+package ru.gb.oseminar4.Model;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -97,7 +97,7 @@ public class Task {
                 ", deadLine=" + deadLine +
                 ", fullName=" + fullName +
                 ", priority=" + priority +
-                ", task=" + task + "\n")
+                ", task=" + task)
                 .replace("[", "")
                 .replace("]", "");
     }

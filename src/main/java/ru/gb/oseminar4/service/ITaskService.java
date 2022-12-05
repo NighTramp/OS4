@@ -1,6 +1,6 @@
-package ru.gb.oseminar.service;
+package ru.gb.oseminar4.service;
 
-import ru.gb.oseminar.data.Task;
+import ru.gb.oseminar4.Model.Task;
 
 import java.util.List;
 import java.util.Map;

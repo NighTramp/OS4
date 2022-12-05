@@ -1,8 +1,8 @@
-package ru.gb.oseminar.service;
+package ru.gb.oseminar4.service;
 
-import ru.gb.oseminar.data.Keys;
-import ru.gb.oseminar.data.Priority;
-import ru.gb.oseminar.data.Task;
+import ru.gb.oseminar4.Model.Keys;
+import ru.gb.oseminar4.Model.Priority;
+import ru.gb.oseminar4.Model.Task;
 
 import java.util.*;
 import java.util.stream.Collectors;

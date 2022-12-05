@@ -1,4 +1,4 @@
-package ru.gb.oseminar.view;
+package ru.gb.oseminar4.view;
 
 import java.util.List;
 import java.util.logging.Logger;
